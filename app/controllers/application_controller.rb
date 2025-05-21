@@ -1,0 +1,3 @@
+class ApplicationController < ActionController::API   # globale Basis
+  # hier kannst du CORS-Helper, Rescue-Handler …
+end
